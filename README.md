@@ -1,6 +1,6 @@
 # Leetcode Problem Solutions
 
-This repository contains my solutions to various data structur
+This repository contains my solutions to various data structure
 
 ## Purpose
 
